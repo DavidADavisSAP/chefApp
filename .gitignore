@@ -40,3 +40,15 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Angular Environment Vars
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Firebase
+/environments/firebase-config.ts
+.firebaserc
+
+
